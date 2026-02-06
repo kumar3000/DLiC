@@ -1,2 +1,3 @@
 # DLiC
-Deep Learning in C
+## Deep Learning in C
+- Made on Linux (Fedora)
